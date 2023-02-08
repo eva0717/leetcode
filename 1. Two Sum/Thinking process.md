@@ -4,3 +4,4 @@
 <p>But it may take O(n^2) time commplexity to do. Maybe I should try something else?</p>
 <p>I decided to write this first, and find other better way after AC.</p>
 <p><code>start at: 11:46PM</code></p>
+<p><code>AC at: 11:57PM</code></p>

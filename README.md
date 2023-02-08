@@ -28,7 +28,7 @@
   <td><a href="https://github.com/eva0717/leetcode/tree/main/206.%20Reverse%20Linked%20List">206</a></td>
   <td><a href="https://leetcode.com/problems/reverse-linked-list/">Reverse Linked List</a></td>
   <td><a href="https://github.com/eva0717/leetcode/blob/1385c7716cb70a2ea447a28565bae26d75a8515e/206.%20Reverse%20Linked%20List/reverseLinkedList.cpp">Cpp</a></td>
-  <td>Medium</td>
+  <td>Easy</td>
   <td>unknown</td>
  </tr>
 </table>

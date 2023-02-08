@@ -26,7 +26,7 @@
  
  <tr>
   <td><a href="leetcode/206. Reverse Linked List at main · eva0717/leetcode (github.com)">206</a></td>
-  <td><a href="https://leetcode.com/problems/reverse-linked-list/"Reverse Linked List</a></td>
+  <td><a href="https://leetcode.com/problems/reverse-linked-list/">Reverse Linked List</a></td>
   <td><a href="leetcode/reverseLinkedList.cpp at main · eva0717/leetcode (github.com)">Cpp</a></td>
   <td>Medium</td>
   <td>unknown</td>

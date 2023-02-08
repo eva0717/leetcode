@@ -44,6 +44,6 @@
 <p>So I think maybe I could use the things like pointer, to check them one by one?</p>
 <p>But it may take O(n^2) time commplexity to do. Maybe I should try something else?</p>
 <p>I decided to write this first, and find other better way after AC.</p>
-<p><code>start at: 11:46PM</code></p>
-<p><code>AC at: 11:57PM</code></p>
-<p><code>cost time: 11minute</code></p>
+<pre><strong>start at:</strong> 11:46PM
+<strong>AC at:</strong> 11:57PM
+<strong>cost time:</strong> 11minute</pre>

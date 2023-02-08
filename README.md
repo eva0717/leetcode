@@ -17,9 +17,9 @@
  </tr>
  
  <tr>
-  <td>98</td>
+  <td><a href="https://github.com/eva0717/leetcode/tree/main/98.%20Validate%20Binary%20Search">98</a></td>
   <td><a href="https://leetcode.com/problems/validate-binary-search-tree/">Validate Binary Search Tree</a></td>
-  <td>Cpp</td>
+  <td><a href="https://github.com/eva0717/leetcode/blob/main/98.%20Validate%20Binary%20Search/validateBinarySearchTree.cpp">Cpp</a></td>
   <td>Medium</td>
   <td>unknown</td>
  </tr>

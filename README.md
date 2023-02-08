@@ -34,7 +34,7 @@
  
  <tr>
   <td><a href="https://github.com/eva0717/leetcode/tree/main/739.%20Daily%20Temperatures">739</a></td>
-  <td><a href="https://leetcode.com/problems/daily-temperatures/submissions/835393077/">Daily Temperature</a></td>
+  <td><a href="https://leetcode.com/problems/daily-temperatures/description/">Daily Temperature</a></td>
   <td><a href="https://github.com/eva0717/leetcode/blob/main/739.%20Daily%20Temperatures/dailyTemperatures.cpp">Cpp</a></td>
   <td>Medium</td>
   <td>unknown</td>

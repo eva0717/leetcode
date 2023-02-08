@@ -1,6 +1,6 @@
-# [1. Two Sum(Easy)](https://leetcode.com/problems/two-sum/description/)
+<h1><a href="https://leetcode.com/problems/two-sum/description/">1. Two Sum(Easy)</a></h1>
 
-<div class="_1l1MA"><p>Given an array of integers <code>nums</code>&nbsp;and an integer <code>target</code>, return <em>indices of the two numbers such that they add up to <code>target</code></em>.</p>
+<p>Given an array of integers <code>nums</code>&nbsp;and an integer <code>target</code>, return <em>indices of the two numbers such that they add up to <code>target</code></em>.</p>
 
 <p>You may assume that each input would have <strong><em>exactly</em> one solution</strong>, and you may not use the <em>same</em> element twice.</p>
 

@@ -33,3 +33,17 @@
 	<li>It is guaranteed that the list represents a number that does not have leading zeros.</li>
 </ul>
 </div>
+<hr>
+<h2>The thinking process</h2>
+<p>In this case, I've thought 2 ways to do</p>
+<p>The first one is to add them one by one</p>
+<pre><strong>example:</strong> l1 = [2,4,3], l2 = [5,6,4]
+<strong>Output:</strong> [7,0,8]
+<strong>Explain:</strong> 7 = 2 + 5, 0(10) = 4 + 6, 8 = 3 + 4 + 1(from 10)
+</pre>
+<p>The second way just to add them overall</p>
+<pre><strong>example:</strong> l1 = [2,4,3], l2 = [5,6,4]
+<strong>Output:</strong> [7,0,8]
+<strong>Explain:</strong> 708 = 243 + 564
+</pre>
+<p>And I'm going to try the first way, because I think this way can use lesser variable to save the numbers</p>
